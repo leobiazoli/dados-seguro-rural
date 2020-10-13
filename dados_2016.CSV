@@ -1,0 +1,298 @@
+n_ordem;ano;cod_proprietario;proprietario;nome_propriedade;cod_propriedade;mun;esec;cr;especie;n_man;n_fem;doenca;teste;resultado_primeiro teste;n_reagentes;n_positivos;situacao;obs;numero_animais_positivos;saneamnt
+1;2016;239215;Fundação Educacional de Patos de Minas (UNIMPAM);Fazenda Canavial;31480042616;Patos de Minas;Patos de Minas;Patos de Minas;BOV;28;87;TUB;TCC;POS e INC;;;Interdição/Eutanásia (1 animal POS e 2 animais INCs em 04/02/16)/Desinterdição;"Os animais INCs nºs. 995, 996, 15, 71, 40 e o POS nº 32 (já marcado com P) encontram-se interditados. 
+O animal nº 32 foi destruído na propriedade na presença do IMA; os animais nºs 995 e 15, INC´s , também foram destruídos com acompanhamento do IMA para fins de ensino (necropsia - UNIPAM).
+Os animais INCs (4 animais no total) apresentaram resultado NEG no TCC e foram desinterditados.";;não
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+2;2016;81852;Odilon Soares Silva;Faz. Palma da Babilônia;31702064279;Uberlândia;Uberlândia;Uberlândia;BOV;6;79;BRU;AAT e 2ME;Reagente;1;;Desinterdição;"O animal nº 347308, F, encontra-se interditado e aguarda o teste confirmatório.
+A fêmea apresentou resultado NEG no 2ME e foi desinterditada.";0,00;não
+;;;;;;;;;;;;;;;;;;;;
+3;2016;422517;Henrique Cajazeira Figueira;Fazenda Figueira;31701071244;Uberaba;Uberaba;Uberaba;BOV;20;136;BRU;AAT;Reagente;3;;Interdição;"Os animais identificados por 3868P, HCFG582 e HCFG812, aguardam interditados o resultado do teste do 2ME.
+Os animais foram testados no IB e mediante apresentação de resultado NEG no 2ME foram desinterditados.";0,00;não
+;;;;;;;;;;;;;;;;;;;;
+4;2016;221363;Ronaldo de Souza Queiroz;Fazenda Buriti;31074060637;Bom Despacho;Bom Despacho;Bom Despacho;BOV;16;379;TUB;TCC;Inconclusivo;;;Desinterdição;"Os animais identificados por 80L, 0297, 0329, 9335U e 5335 aguardam resultado do teste confirmatório. O atestado não foi entregue dentro do prazo estabelecido pela Port. Conj. 05/2009 ao ESEC. 
+O novo exame foi acompanhado pelo IMA e os 05 animais apresentaram resultado NEG e, portanto, desinterditados.";;não
+;;;;;;;;;;;;;;;;;;;;
+5;2016;46294;Ana Cristina Q. Souza Reis;Sítio Soberana;31721030072;Volta Grande;Além Paraíba;Juiz de Fora;BOV;4;104;TUB;TCC;Positivo;;;Eutanásia (01 animal em 25/07/16);"O animal nº 077, que foi testado na propriedade do Sr. Cícero Fonseca Barbosa, apresentou resultado POS no TCC e aguarda destino final.
+O animal permanece interditado na propriedade aguardando destino final.
+O IMA acompanhou a eutanásia do animal nº 077, realizada na propriedade.";;não
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+6;2016;47418;Cícero Fonseca Barbosa;Síto Jóia da Prata;31044030324;Argirita;Leopoldina;Juiz de Fora;BOV;17;71;TUB;TCC;POS;;;Movimentação (retorno origem);O animal nº 077 apresentou resultado POS, mas o proprietário retornou com o animal (GTA 83608 série E de 25/02/2016) para a origem (propriedade da Srª. Ana Cristina Q Souza Reis).;;não 
+7;2016;282114;Luiz Carlos Gomes Facco;Faz. Alecrim;31670040064;Serranos;Liberdade;Juiz de Fora;BOV;10;230;TUB;TCC;Inconclusivo;;;Descaminho (Encaminhamento para Promotoria Pública: a confirmar);"Os animais nºs R200 e R 201, com atestado INC para tuberculose, não foram encontrados na propriedade.
+A propriedade foi novamente vistoria, quando os funcionários informaram que os dois animais foram comercializados  junto a outros bovinos sem que houvesse emissão de GTA. Não souberam informar para qual proprietário ou propriedade foi realizada a referida venda. O ESEC irá providenciar a lavratura de AI por movimentação de animais sem GTA.";;não 
+;;;;;;;;;;;;;;;;;;;;
+8;2016;307041;Vitalino Carminate de Oliveira;Sítio Santa Clara;31044030117;Argirita;Leopoldina;Juiz de Fora;BOV;20;6;TUB;TCC ;Positivos e Inconclusivo;;;"Eutanásia (1 animal POS em 09/05/16; 3 animais 2 POSs e 1 INC em 20/06/16)";"Animal POS nº 13, já marcado, aguarda destino final; animais nºs 10, 11 e 12, INCs no TCC, aguardam teste confirmatório.
+O animal nº 13 foi destruído na presença do IMA. Os demais animais permanecem interditados até exame confirmatório.
+Os animais INCs foram retestados em 12/06/2016 e apresentaram os seguintes resultados: POS´s animais nºs 10 e 11 e INC (novamente) animal nº 12. Os três animais foram eutanasiados na presença do IMA.";;não
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+9;2016;447263;Vítor Pesca Sarcinelli;Sítio Monte Alegre/Biluíba;31312081038;Taparuba;Ipanema;Governador Valadares;BOV;0;77;TUB;TCS;Inconclusivo;;;Desinterdição;"Os animais nºs 10, 5511 AI e 8124 AF apresentaram resultado INC no TCS e aguardam teste confirmatório.
+Os três animais apresentaram resultado NEG no TCC de 30/06/2016 e foram desinterditados.";;-
+;;;;;;;;;;;;;;;;;;;;
+10;2016;101928;Pascoal Henrique Sarcinelli;Fazenda da Prata;31519090087;Pocrane;Ipanema;Governador Valadares;BOV;25;183;BRU E TUB;AAT E TCS;Reagente e Inconclusivo;1;;"Desinterdição (1 animal Bruc; 12 animais Tub)";"Animal reagente no AAT nº 8122AF; animais nºs 332, 360, AI 5506, 087, 358, 353, 359, 276, 197, 344, 121 e 401.
+O animal reagente no AAT apresentou resultado NEG no 2ME em 14/04/2016. assim como os outros 12 animais submetidos ao TCC (resultado em 05/07/2016). Todos os animais foram desinterditados.";0,00;-
+;;;;;;;;;;;;;;;;;;;;
+11;2016;3169573;Agropecuária Emília Ltda;Fazenda Emília;31342022731;Ituiutaba;Ituiutaba;Uberlândia;BOV;0;22;BRU E TUB;AAT e TCS;Reagente e Positivo;1;;Abate sanitário (1 animal em 10/06/16)/Desinterdição;"Animal reagente no AAT nº 294, que provavelmente não será submetido ao teste confirmatório. Animal nº LZ 05, POS no TCS, aguarda teste confirmatório.
+O animal nº 294 foi encaminhado para abate sanitário GTA 494141 E. O animal LZ 05 aguarda teste confirmatório TCC.
+O animal LZ 05 apresentou resultado NEG no TCC e foi desinterditado.";1,00;-
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+12;2016;453828;Conceição Aparecido Bertanha;Faz. Mogiana;31193021834;Coromandel;Coromandel;Patrocínio;BOV;64;504;BRU E TUB;AAT e TCC;Reagente e Positivo;5;;Morte(animal nº 109)/Abate sanitário (24 bovinos em 08/06/16)/Desinterdição (animal nº 133);"Animal reagente no AAT nº 511,126,368,156 e 593; animais POSs no TCC nºs 551 e 109. Animais aguardam teste confirmatório.
+Em novo teste os animais nºs 511, 126, 368, 156 (POS no AAT) e 551 e 109 (POS TCC) continuam na propriedade. Novos animais foram testados, dos quais: 11 foram POSs no AAT (453,456,617,231,429,423,437,586,483,583 e 057); 5 foram POS no TCC (nºs 320,251,615,605 e 596); 1 INC no TCC (nº 133); 2 fêmeas foram POSs no AAT e no TCC (nºs 671 e 008). Os animais aguardam destino final e teste confirmatório. 
+As 16 fêmeas POSs no AAT, as 06 fêmeas POSs no TCC e as 02 fêmeas POSs no AAT e TCC foram encaminhadas para abate sanitário GTA 480914E. O animal nº 133 aguarda interditado o teste confirmatório.
+O animal nº 133 apresentou resultado NEG e foi desinterditado. O animal nº 109 morreu na propriedade entre as datas de acompanhamento mensal. Os demais 24 animais (6 POSs para TUB, 16 POSs para BRU e 02 POS em ambas) foram encaminhados para abate sanitário GTA 480914E).";16,00;-
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+13;2016;3143293;Lúcio Flávio Silva Mendes;Faz. Esmeril;31481033719;Patrocínio ;Patrocínio;Patrocínio;BOV;0;153;TUB;TCC;Inconclusivo;;;"Desinterdição (1 animal em 30/06/16)/Abate sanitário (1 animal em 27/04/16; 03 animais em 01/07/16)";"O animal nº 086, com resultado INC no TCC, aguarda teste confirmatório.
+Foram realizados novos testes no rebanho, com 1 animal POS no TCC (nº 549) e 3 animais INCs no TCC (nºs 556, 157 e 020). Os animais INCs aguardam teste confirmamatório e o POS já foi marcado com P e aguarda destino final.
+O animal POS nº 549 foi encaminhado para abate sanitário GTA 335405 E, no entanto, o frigorífico informou que o animal não chegou ao estabelecimento. A questão está sob investigação e os demais animais INCs estão interditados e aguardam teste confirmatório.
+Email para a CR sobre o caso em 28/06/2016!
+Os animais nºs 020, 556 e 086, POSs no TCC, foram encaminhados para abate sanitário GTA 575970 E.";;-
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+14;2016;60614;EPAMIG;Fazenda Sertãozinho;31480040521;Patos de Minas;Patos de Minas;Patos de Minas;BOV;320;136;BRU;AAT;Reagente;2;;Eutanásia (2 animais em 01/09/16);"Os animais nºs 2078 e 2148 aguardam resultado do 2ME.
+Os dois tourinhos apresentaram resultado POS no 2ME no Lab. Ipeve e foram eutanasiados com acompanhamento do IMA.";2,00;
+;;;;;;;;;;;;;;;;;;;;
+15;2016;194125;Manoel Lage Chaves;Faz. Riacho da Ponte;31189080310;Cordisburgo;Paraopeba;Curvelo;BOV;16;206;BRU;AAT e 2ME;Reagente e POS;;1;Eutanásia (1 animal em 12/05/16);O animal nº 238 foi destruído na propriedade na presença do IMA.;1,00;-
+16;2106;470743;Guilherme Gonçalves Santos/Outra;Faz. São Cosme e Damião ;31384011365;Leopoldina;Leopoldina;Juiz de Fora;BOV;8;82;BRU;AAT;Reagente;4;;Eutanásia (4 animais em 20/06/2016);"Os animais identificados por: Pretinha nº 019, Laeria Basp 207, Gamboa Basp 209 e Harmonia Basp 354 encontram-se interditados e aguardam resultado do exame do 2ME.
+As quatro fêmeas apresentaram resultado POS no 2ME e aguardam destino final.
+O IMA acompanhou a eutanásia dos 4 bovinos positivos na propriedade.";4,00;-
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+17;2016;449642;Carlos Cesar Ávila;Sítio Boa Vista;31384011288;Leopoldina;Leopoldina;Juiz de Fora;BOV;23;57;TUB;TCC;Inconclusivo;;;Eutanásia (1 animal em 21/10/16);"O animal nº 006, F, aguarda teste confirmatório enquanto permanece interditado.
+A F 006 apresentou resultado POS no teste confirmatório em 23/09/16.
+O proprietário optou pela eutanásia do animal, com acompanhamento do IMA.";;não
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+18;2016;3157429;Tatiana Lopes Sampaio Sales (arrendatária);Faz. das Águas;31241040559;Esmeraldas;Esmeraldas;Belo Horizonte;BOV;0;293;TUB;TCC;Inconclusivo;;;Desinterdição;"O animal, F, nº 462 encontra-se interditado e aguarda teste confirmatório.
+O méd. vet. hab. não entregou resultado ao ESEC conforme legislação e será  notificado - Paulo Henrique Alves (compra insumos no LSA).
+O animal aguarda realização do teste confirmatório.
+O animal n º 462 apresentou resultado NEG em 30/06/2016 e foi desinterditado.";;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+19;2016;235060;Prudente Franco de Rezende;Faz. Boa Vista;31367020765;Juiz de Fora;Juiz de Fora;Juiz de Fora;BOV;8;24;TUB;TCS;Positivo;;;Eutanásia (1 animal em 29/12/16);"O animal nº 105 (Avenida) apresentou resultado pos no TCS e aguarda, interditada, exame confirmatório.
+A F nº 105 foi submetida ao teste confirmatório e apresentou resultado POS. 
+O proprietário optou pela eutanásia do animal, com acompanhamento do IMA.";;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+20;2016;54033;José Gabriel Sartori;Faz. Floresta;31690000179;Tocantins;Ubá;Juiz de Fora;BOV;0;7;BRU;AAT ;Positivo;1;;Eutanásia (1 animal em 14/06/16);"O animal nº 9737R, F de 37 meses, aguarda interditada a realização do teste confirmatório.
+O animal apresentou resultado POS no 2ME em 01/06/2016.
+A propriedade foi vistoriada e o proprietário notificado sobre a necessidade de providenciar o destino final do animal POS em 30 dias a partir do resultado do 2ME. 
+O animal nº 3737R foi eutanasiado na propriedade na presença do IMA.";1,00;não
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+21;2016;31727;Ronaldo José Ribeiro;Faz. Serra Negra;31481030875;Patrocínio ;Patrocínio;Patrocínio;BOV;6;38;BRU E TUB;AAT e TCC;POS e INC;1;;Sacrifício (2 animais - 28/07/2016 BRU e 25/10/2016 TUB);"A F bovina nº 108 apresentou resultado POS no AAT; a F nº 351 apresentou resultado INC no TCC.
+A fêmea POS no AAT foi encaminhada para abate sanitário GTA 681008E. 
+O animal nº 351 apresentou resultado POS no teste confirmatório e foi encaminhado para abate sanitário GTA 958349 E.";1,00;não
+;;;;;;;;;;;;;;;;;;;;
+22;2016;3116081;Franklin Murta Resende;Faz. Bananal;31034051450;Araçuaí;Araçuaí;Almenara;BOV;57;209;TUB;TCS;POS;;;Desinterdição;"A fêmea bovina nº 075 foi interditada e aguarda teste confirmatório.
+A fêmea foi submetida ao TCC antes do prazo estabelecido pela legislação e o resultado, que foi NEG, não foi aceito. O méd. vet. hab. Pedro Antônio Pereira Lages foi notificado sobre o fato e responderá a Proc. Adm. aberto pelo SSA/MG. 
+A vaca nº 075 pariu um bezerro macho, que teve contato direto com a mãe e acesso ao colostro. Ele foi, portanto, também interditado.
+Os dois estão aguardando o teste (TCS ou TCC - bezerro; TCC - vaca). 
+Na vistoria realizada em 21/11 o proprietário informou que o bezerro que teve contato com o colostro da vaca suspeita morreu após episódio de diarréia. 
+A fêmea 075 apresentou resultado NEG no TCC e foi desinterditada.";;não
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+23;2016;3075481;Leonardo Machado de Oliveira;Faz. Campos Verdes;31040071054;Araxá ;Araxá;Uberaba;BOV;4;74;TUB;TCC;Inconclusivo;;;Desinterdição;"O animal, Fêmeas, foram INCs no TCC, nºs: 5812, 6635, 6639 e 182. Aguardam resultado do teste confirmatório interditados.
+Todos os 4 animais foram submetidos ao teste confirmatório em 07/10/2016 e apresentaram resultado NEG, sendo desinterditados.";;não
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+24;2016;306293;Luiz  Carlos da Silva;Faz. Bela Vista;31562050126;Rochedo de Minas;São  João Nepomuceno;Juiz de Fora;BOV;20;77;TUB;TCC;Inconclusivo;;;Desinterdição (1 animal);"Os animais nºs 493 e 496 aguardam, interditados, a realização do exame confirmatório.
+Os animais continuam interditados, aguardando teste confirmatório.
+O animal nº 496 morreu durante o intervalo para realização do teste confirmatório  (declaração de méd. vet.).
+O animal nº 493 foi submetido ao TCC e apresentou resultado NEG no teste, sendo desinterditado.
+";;-
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+25;2016;425582;Agroexport Ltda;Faz. São Sebastião;31114080291;Campo Florido;Campo Florido;Uberaba;BOV;523;297;BRU E TUB;AAT e TPC;POS;18;;Desinterdição/Abate sanitário (21 animais em 09/09/2016);"Os 18 machos bovinos positivos (8 a 12 meses) para brucelose no teste do AAT, nºs 15512, 15825, 15972, 16314, 16333, 16400, 16470, 16557, 18835, 18847, 18857, 18981, 19352, 19680, 20683, 20724, 257 e 6 estão interditados, assim como os 106 bovinos machos (8 a 12 meses) positivos no TPC, nºs de identificação: 15870, 16241, 16254, 16268, 16377, 16439, 16471, 16509, 16566, 16634, 16674, 16691, 16708, 16723, 16732, 16754, 16756, 16757, 16813, 16885, 0003, 00383, 00536, 12296, 12330, 12338, 12412, 12482, 14, 15112, 15348, 15454, 15470, 15538, 15608, 15656, 15699, 15735, 15814, 15823, 16900, 16939, 16978, 17044, 17078, 17081, 17224, 17389, 17677, 17681, 17874, 17958, 17980, 18031, 18754, 18761, 18772, 18828, 18878, 18969, 18971, 19038, 19093, 19132, 19147, 19157, 19195, 19288, 19318, 19325, 19329, 19429, 19456, 19495, 19542, 19564, 19619, 19640, 19736, 19750, 20184, 20202, 20263, 20276, 20335, 20430, 20519, 20555, 20578, 20587, 20604, 20618, 20620, 20642, 20694, 20758, 20811, 20879, 20824, 20839, 20902, 20942, 291, 305, 328 e 359. Os mesmos encontram-se isolados do rebanho aguardando os testes confirmatórios. 
+Resultado NEG no 2ME, IB, emitido em 07/07/2016, com 19 animais M (nºs 6, 257, 15512, 15825, 15972, 16314, 16333, 16400, 16470, 16557, 18835, 18847, 18857, 18981, 19352, 19680, 20683, 20724 E 19.835).  
+O soro do animal 19.835 foi enviado por engano para teste no IB.
+Os 106 bovinos com resultado INC no TPC fora submetidos ao TCS (E NÃO AO TCC CONFORME PRECONIZADO) com 21 animais apresentando novamente resultado POS (nºs 15348, 15538, 15608, 15656, 15823, 16241, 16471, 16754, 16900, 17078, 17224, 17389, 17985, 19157, 19325, 19495, 19736, 20263, 20276, 20430 e 20578). Os 85 animais que apresentaram resultado NEG foram INCORRETAMENTE desinterditados.
+Os 21 animais foram encaminhados para abate sanitário GTA 820818E e os 85 foram vendidos antes que o SVO pudesse tomar alguma providência com relação à realização errada do teste confirmatório com o TCS.
+";0,00;-
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+26;2016;224147;Eduardo Teixeira Malta;Faz. Inhumas;31042050058;Arcos;Iguatama;Bom Despacho;BOV;1;116;TUB;TCC;Inconclusivo;;;Destruição (01 animal em 13/05/2016)/Abate normal 01 animal em 04/08/2016);"O méd. vet. hab. não realizou a notificação ao ESEC de Iguatama. Ao realizar a vistoria na propriedade foi constado que o animal nº 026 (INC no TCC) já havia sido destruído SEM a presença do IMA. O animal nº 087 permanece na propriedade e deve aguardar interditado até realização do exame confirmatório.
+O mesmo méd. vet. hab. (Valdir Nogueira Nunes) realizou o TCS como teste confirmatório e, mediante o resultado NEG o proprietário encaminhou ou animal nº 087 para abate normal GTA E 703250.";;
+;;;;;;;;;;;;;;;;;;;;
+27;2016;303115;Manoel Antônio Cardoso;Faz. Lage 2 Irmãos;31039000330;Araújos;Bom Despacho;Bom Despacho;BOV;12;194;TUB;TCC;POS e INC;;;"Desinterdição/
+Abate sanitário (13 animais em 03/06/2016 e 04 animais em 29/11/2016)";"Os animais POS´s nºs 064, 054, 003, 088, 0015, 68, 038, 044, 070, 0045, 0023, 156 e 0034 encontram-se marcados com P e aguardam destino final. Os animais nºs 92, 178, 067, 0012, 0047, 074, 090, 069, 0049 e 304, com resultado INC no TCC, aguardam interditados o teste confirmatório.
+Os 13 animais positivos foram encaminhados para abate sanitário GTA 464555 E em 03/06/2016.
+No teste confirmatório, 23/11/2016, os animais nºs 92, 178, 067 e 069 apresentaram resultado POS; os de nºs 0012, 074, 304 e 090 apresentaram resultado NEG. As fêmeas nºs 0047 e 0049 não foram testadas, pois morreram no intervalo entre os testes (declaração méd.vet.hab.). Os animais POS´s foram encaminhados para abate sanitário GTA 56052F.";;não
+;;;;;;;;;;;;;;;;;;;;
+28;2016;25896;Fundação Educacional P Des das Ciências Agrárias (FAZU);Fazenda Escola da FAZU;31701072056;Uberaba;Uberaba;Uberaba;BOV;148;52;BRU;AAT;POS ;1;;Desinterdição;"O animal bov M, identificação Mile 653, aguarda resultado do 2ME. 
+O animal apresentou resultado NEG no 2ME do IB e foi desinterditado.";0,00;não
+;;;;;;;;;;;;;;;;;;;;
+29;2016;3161325;Valdeci Francisco Verdelho;Fazenda Flor de Corte;31346080701;Jaboticatubas;Lagoa Santa;Belo Horizonte;BOV;0;3;TUB;TCC;POS;;;Eutanásia (01 animal em 07/06/16);"O animal nº 01 foi eutanasiado na presença do IMA. As  bezerras que estavam mamando e em contato direto com a fêmea positiva foram interditadas e aguardam teste confirmatório.
+No dia 23/06 uma das bezerras morreu, e o IMA foi à propriedade e constatou o fato.
+A outra bezerra apresentou resultado NEG em 29/06 e foi desinterditada.";;não
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+30;2016;48849;Dásio Braga da Silva;Fazenda Ponte da Pedra;31572780097;Santa Bárbara do Monte Verde;Matias Barbosa;Juiz de Fora;BOV;11;53;BRU;AAT;POS;1;;Eutanásia (03 bovinos em 27/07/16);"O animal identificado por dois brincos de nºs 5814 e 20178 foi interditado e aguarda destino final.
+Mais dois bovinos foram POSs no AAT em 25/07, nºs 83 e 5814Q/2078. Os três animais foram eutanasiados na presença do IMA.";0,00;não
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+31;2016;3053309;Edilson Brandão Barbosa;Faz. Alvorada;31367021650;Juiz de Fora;Juiz de Fora;Juiz de Fora;BOV;53;264;TUB;TCS;Inconclusivo;;;Desinterdição;"O animal nº 501 foi interditado na propriedade e aguarda teste confirmatório.
+A fêmea bovina apresentou resultado NEG em 02/12/2016 e foi desinterditada pelo IMA.";;não
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+32;2016;492313;Wander Júnior de Carvalho;Chácara das Rosas;31481031832;Patrocínio ;Patrocínio;Patrocínio;BOV;0;21;TUB;TCC;POS;;;Abate sanitário (1 animal em 11/07/16);O animal nº 354 foi encaminhado para abate sanitário GTA 614601E.;;não
+33;2016;401161;Alvo Consultoria e Agronegócios Ltda;Faz. Santa Rita de Cássia;31701072502;Uberaba;Uberaba;Uberaba;BOV;5190;7;TUB;TPC;POS;;;Abate sanitário (10 animais em 04/08/16);"Os 10 bovinos (machos, 13 a 24 meses) estão interditados mediante resultado POS no TPC e aguardam teste confirmatório.
+Os 10 bovinos foram encaminhados para abate sanitário GTA 701883E.";;não
+34;2016;67983;Jesus Salvador Duarte;Faz. Claro;31710060557;Vazante;Vazante;Patos de Minas;BOV;27;33;TUB;TCS;INC;;;"Abate sanitário (GTA sem frase - 24 bovs em 07/16; morte de 1 bov em 07/16; GTA com frase 7 bovs em 19/07/16).";"Ao receber o resultado de exame com 32 animais INCs no TCS (nºs 32,21,93,52,31,63,8845,35,28,51,06,18,60,29,100,43,77,41,53,70,01,05,1000,67,33,44,95,24,82,14 e 69) o proprietário encaminhou 24 animais para abate no SIE 3614 - Frig. Aliança (GTA 613849E em 11/07/16). 
+O IMA somente foi notificado no dia 14/07 e foi à propriedade no dia seguinte, onde encontrou somente 7 animais (nºs 70, 05, 1000, 95, 82, 14 e 69), que foram interditados. O proprietário informou sobre a morte (causa indefinida) do animal com resultado INC nº 44, ocorrida em 10/07/2016.
+O proprietário optou por não realizar exame confirmatório e encaminhou os 07 animais para o frigorífico  Aliança, GTA 644389E, em 19/07/2016.";;não
+;;;;;;;;;;;;;;;;;;;;
+35;2016;449675;Hilo José Duarte de Assis;Faz. Vera Cruz;31259030369;Ferros;Santa Maria de Itabira;Belo Horizonte;BOV;328;117;TUB;TCS;INC;;;Abate sanitário (13 bovinos em 26/07/2016)/Eutanásia (02 animais em 18/10/2016);"Animais POSs no TCS nºs 861, 866, 871, 869, 914, 927, 925, 899, 910 e 931; INC no TCC nº 898; INC no TCS nº 873 e 898. O animal nº 864 foi encaminhado para abate normal em 19/07/2016 - GTA 642444 E. Os outros 13 animais foram encaminhados para abate normal em 26/07/2016 - sem constar a situação na GTA de abate sanitário nº 672291E. 
+Mais 02 animais apresentaram resultado POS no TCC (resultado 06/10/16) e a eutanásia dos mesmos foi realizada sob acompanhamento do IMA.";;não
+;;;;;;;;;;;;;;;;;;;;
+36;2016;315383;José Antônio Figueiredo Neto;Faz. Limeira;31280060484;Guanhães;Guanhães;Guanhães;BOV;18;126;TUB;TCS;INC;;;Desinterdição;"As fêmeas bovinas nºs 18, 24 e 60, todas em lactação (a nº 18 está gestante com previsão de parto em 24/09/2016), foram interditadas.
+As três fêmeas apresentaram resultado NEG no TCC em 20/10/2016 e foram desinterditados.";;não
+;;;;;;;;;;;;;;;;;;;;
+37;2016;312802;Paulo Roberto Carvalhais;Faz. Bom Jardim;31406050124;Materlândia;Sabinópolis;Guanhães;BOV;3;200;TUB;TCS;INC;;;Desinterdição;A fêmea bov nº 265 aguarda, interditada, a realização do exame confirmatório. O animal foi submetido ao TCC em 29/09/2016 e apresentou resultado NEG, sendo desinterditado.;;
+;;;;;;;;;;;;;;;;;;;;
+38;2016;443924;Francelino Ribeiro de Carvalho;Faz. da Prensa;31484000208;Paulistas;São João Evalngelista;Guanhães;BOV;101;197;TUB;TCS;INC;;;Eutanásia (1 animal em 09/11/16);"As fêmeas bovinas nºs 015, 131 , 127 e 145 aguardam, interditadas, o resultado do teste confirmatório.
+Os quatro animais foram submetidos ao teste confirmatório TCC, onde somente a F bovina nº 015 apresentou resultado POS. Os animais nº s 131, 127 e 145 apresentaram resultado NEG e foram desinterditados. O animal POS foi eutanasiado com acompanhamento do IMA.";;não
+;;;;;;;;;;;;;;;;;;;;
+39;2016;47425;Fernando Junqueira Ferraz;Faz. Salvação;31044030289;Argirita;Leopoldina;Juiz de Fora;BOV;107;55;TUB;TCC;INC;;;Eutanásia (16/02/2017);"A fêmea bov nº 574 aguarda, interditada, a realização do exame confirmatório.
+Foi realizada nova vistoria e o exame confirmatório ainda não tinha sido providenciado.
+O proprietário não providenciou o exame confirmatório no animal interditado e o proprietário foi informado sobre a possibilidade de encaminhamento do caso  para a Promotoria Pública. 
+Novo exame foi realizado (10/11/2016) e o animal apresentou resultado INC novamente. O proprietário realizará a eutanásia do animal com acompanhamento do IMA.
+O animal nº 574 foi destruído na propriedade na presença do IMA.";;não
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+40;2016;47665;Marcus Vinícius dos Reis Carvalho;Sítio Veredas;31384010421;Leopoldina;Leopoldina;Juiz de Fora;BOV;3;29;TUB;TCS;POS;;;Eustanásia (3 animais em 26/07/16);As fêmeas bovinas identificados pelos nºs 06, 11 e 15 foram eutanasiadas pelo méd. vet. Mário Barbosa Furtado na presença do IMA.;;-
+41;2016;48800;Antônio de Pádua de Paiva;Sítio Luizes;31572780148;Santa Bárbara do Monte Verde;Matias Barbosa;Juiz de Fora;BOV;14;94;BRU;AAT ;POS;;4;Eutanásia (04 animais em 24/08/2016);"Quatro machos de 0 a 12 meses (nºs 73, 81, 82 e 84) apresentaram resultado POS no AAT e aguardam teste confirmatório.
+Os quatro animais apresentaram resultado POS no 2ME e foram eutanasiados por méd. vet. na presença do IMA.";4,00;
+;;;;;;;;;;;;;;;;;;;;
+42;2016;196910;Aluísio Eustáquio de Freitas Miranda;Faz. dos Lopes;31560070214;Rio Vermelho;Sabinópolis;Guanhães;BOV;11;54;TUB;TCS;INC;;;Eutanásia (01 animal em 09/11/16);"A fêmea bovina nº 052 aguarda, interditada, a realização do teste confirmatório.
+A F bovina foi submetida ao teste confirmatório TCC e apresentou resultado POS. O IMA acompanhou a eutanásia desse animal e seu enterrio na propriedade.";;não
+;;;;;;;;;;;;;;;;;;;;
+43;2016;290300;Pecplan ABS Importação e Exportação Ltda;Faz. Santo Inácio;31212580021;Delta;Uberaba;Uberaba;BOV;100;26;BRU;AAT ;POS;1;;Desinterdição (1 animal em 05/10/16);"O bovino identificado por Traveler do Corumbé TE (Big Mac), apresentou resultado POS no AAT e aguarda teste confirmatório. 
+O proprietário encaminhou material para o IB, que realizou o teste de FC, com resultado NEG.";0,00;
+;;;;;;;;;;;;;;;;;;;;
+44;2016;227867;José Flávio Lanna Drummond;Fazenda Palmeiras;31319010342;Itabirito;Itabirito;Belo Horizonte;BOV;19;120;TUB;TCS;POS e INC;;;Eutanásia (1 animal em 13/10/2016/Abate sanitário (1 animal em 28/11/2016);"O animal POS no TCS (F nº CP183) voi vistoriado, no entanto os demais animais com resultado INC (Fêmeas com idade > a 36 meses - 04OJ, 23, 34, 48, 1098, CP13, CP194) não foram apresentados. 
+O proprietário informou ao ESEC, por telefone, que os animais inconclusivos foram vendidos SEM GTA para um outro proprietário - Luciano José de Oliveira - e que não estavam mais na propriedade.
+Assim, o animal POS no TCS nº CP183 ainda aguarda na propriedade, assim como o INC no TCS nº 34. Os demais animais INCs realmente foram vendidos SEM GTA para o Sr. Luciano José de Oliveira (Form Vin aberto).
+O animal CP183 foi eutanasiado na presença do IMA. O animal nº 34 não foi submetido ao teste confirmatório e o proprietário optou pelo abate sanitário do mesmo GTA 50812F de 28/11/2016.
+";;-
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+45;2016;178957;Unicafé Agrícola S.A.;Faz. Derribadinha;31137010688;Carlos Chagas;Carlos Chagas;Teófilo Otoni;BOV;778;4233;BRU E TUB;AAT e  TCS;POS e INC;1;;Interdição/Desinterdição (10 animais em 05/12/16);"Bovino fêmea POS no AAT nº Unic 7882 (> 36 meses de idade); 10 bovinos com resultado INC no TCS (sexo/idade/nº): F/24m/2932, F/24m/2949, F/24m/3005, M/>36 m/Unic 7382, M/>36 m/Unic 7796, M/>36 m/ Unic 7945, M/0 a 12 m/Unic 9227, M/0 a 12 m/Unic 8988 e M/>36m/Univ 8186; 04 bovinos com resultado POS no TCS: F/>24 m/2934, F/>24 m/2937, F/0 a 12 meses/Unic 9403 e F/>24 m/Unic 8350. 
+Após a realização do teste confirmatório ao qual os 14 bovinos foram submetidos em 05/12/2016, 12 bovinos foram desinterditados por apresentarem resultado NEG no TCC (nºs 9403, 8350, 2934, 2937, 7382, 8003, 7945, 9224, 8988, 2949, 2932 e 3005), 1 bovino apresentou resultado INC no TCC e será submetido novamente ao teste confirmatório (nº 8186), e 1 bovino apresentou resultado POS no TCC (nº 7796) e está interditado aguardando destino final. A fêmea nº 7882 ainda aguarda teste do 2ME.";0,00;-
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+46;2016;3187386;Fundação Educacional de Patos de Minas (UNIMPAM);Faz. Canavial;31480042616;Patos de Minas;Patos de Minas;Patos de Minas;BOV;49;103;TUB;TCS;POS e INC;;;Destruição (02 animais em 21/12/16)/Desinterdição (06 animais);"Os bovinos fêmeas nºs 073, 059 e 900 apresentaram resultado POS no TCS; as fêmeas nºs 080, 998, 109, 062 e 996 apresentaram resultado INC no TCS. Todos os 08 animais serão submetidos ao teste confirmatório.
+Os animais nºs 073, 059, 900, 080, 998 e 109 apresentaram resultado NEG no teste confirmatório de 20/12/2016 e foram desinterditados. O animal nº 062 apresentou resultado POS e o de nº 996 resultado INC no teste confirmatório. Os dois foram submetidos à eutanásia com acompanhamento do IMA.";;não
+;;;;;;;;;;;;;;;;;;;;
+47;2016;61149;Evando Alves Ferreira e Outros;Fazenda Onça;31480042723;Patos de Minas;Patos de Minas;Patos de Minas;BOV;22;433;TUB;TCC;POS;;;Abate sanitário;Os animais, fêmeas bovinas, de brincos nºs 570, 656, 740 e 1045 apresentaram resultado POS no TCC e foram encaminhadas para abate sanitário GTA 95538F. ;;não
+48;2016;47665;Marcus Vinícius dos Reis Carvalho;Sítio Veredas;31384010421;Leopoldina;Leopoldina;Juiz de Fora;BOV;3;29;TUB;TCC;INC;;;Eustanásia (2 animais em 25/11/16);"As fêmeas bovinas identificadas pelos nºs e nomes Simoni 12 (>36 meses de idade) e Medalha 09 (>36 meses de idade) apresentaram resultado INC no TCC e aguardam teste confirmatório.
+O proprietário optou pela eutanásia dos animais sem a realização do teste confirmatório. O procedimento foi acompanhado pelo IMA.";;não
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+49;2016;58635;Vanderlei Alves de Araújo;Sítio Sonho Meu (Faz. Ponte Alta);31375020990;Lagoa Formosa;Lagoa Formosa;Patos de Minas;BOV;3;169;TUB;TCC;POS e INC;;;Eutanásia (1 animal em 17/11/16)/Abate sanitário (1 animal em 13/02/2017);"Fêmea bovina nº 117 (>24 meses) com resultado POS no TCC aguarda destino final; fêmea bovina nº 11 (>24 meses) com resultado INC no TCC, aguarda teste confirmatório. Ambas foram interditadas.
+A fêmea nº 117 foi encaminhada para a Unipam para ser utilizada em aula prática - med. vet. - GTA 017621 F. O animal nº 11 aguarda intervalo para teste confirmatório.
+O animal nº 011 apresentou resultado POS em 09/02/17 e foi encaminhado para abate sanitário GTA 295549F.";;não
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+50;2016;376328;Márcio Campos de São José;Faz. Olaria;31149070215;Casa Grande;Conselheiro Lafaiete;Juiz de Fora;BOV;0;94;TUB;TCC;POS e INC;;;Destruição SEM acompanhamento do IMA (1 animal em 22/11/2016)/Desinterdição (03 animais) e Eutanásia (02 animais em 06/03/2017);"As fêmeas bovinas nºs Br 056, 087, 055, 058 e 060 apresentaram resultado INC no TCC e aguardam teste confirmatório; a fêmea bov nº Br 078 apresentou resultado POS e foi destruída na propriedade sem o acompanhamento do IMA.
+Os animais INCs aguardam interditados o teste confirmatório.
+No teste confirmatório os animais nºs Br 056, 058 e 060 apresentaram resultado NEG no TCC e foram desinterditados. Os animais nºs Br 055 e 087 apresentaram pela segunda vez resultado INC no TCC e, portanto, foram eutanasiados na propriedade na presença do IMA. ";; não
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+51;2016;459682;Nuno César Lopes da Luz;Rancho Califórnia;31137011757;Carlos Chagas;Carlos Chagas;Teófilo Otoni;BOV;2;21;TUB;TCS;POS e INC;;;Eutanásia (sem acompanhamento do IMA)/Abate (sem GTA constando resultado);Resultado no TCS com 04 fêmeas positivas (036, 029, 523 e 026) e 02 inconclusivas (025 e 522). Na vistoria o proprietário informou que realizou a destruição dos 04 bovinos positivos - à bala - na propriedade em 08/11/16, sendo possível identificar o local do enterrio. E tb informou que encaminhou os 02 inconclusivos para abate GTA 998732E (sem constar que os animais eram INCs). ;;não
+52;2016;311559;Elias Ferreira Dias;Fazenda Boa Vista;31541010376;Recreio;Leopoldina;Juiz de Fora;BOV;28;124;TUB;TCC;INC;;;Eutanásia (01 animal em 22/02/17);"A F bovina de 5 anos, INC no TCC, identificada pelo nº 043, aguarda interditada a realização do teste confirmatório - previsão jan/17.
+O animal apresentou um segundo resultado INC no teste confirmatório, sendo considerada como POS e eutanasiada na presença do IMA. ";;não
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+53;2016;22054;Joel Urias Leite;Fazenda Nova Califórnia;31569080514;Sacramento;Sacramento;Uberaba;BOV;13;42;BRU;AAT;POS;3;;Desinterdição;"As fêmeas bovinas com idade superior a 36 meses de nºs 754, 017 e 05 apresentaram resultado POS no AAT e aguardam teste confirmatório.
+Os três animais apresentaram resultado NEG no 2ME em 26/10/2016 e foram desinterditados.";0,00;não
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+54;2016;187904;Ivan Duarte de Assis;Faz. Sororó;31580030561;Santa Maria de Itabira;Santa Maria de Itabira;Belo Horizonte;BOV;80;137;TUB;TCC;POS e INC;;;Eutanásia sem acompanhamento do IMA (29/10/16 - 7 animais)/Eutanásia (04/11 - 1 animal);"Foco iniciado com atendimento SEM preenchimento de TV pelo fiscal assistente - Chefe do ESEC em 29/10/16, quando supostamente 07 animais (3 POSs nº s 326, 227 e 309; 4 INCs nºs 087, 188, 321 e 327) foram eutanasiados na propriedade.
+Em 04/11/16 o fiscal agrop./méd. vet. do ESEC de Itabira foi realizar o atendimento, quando foi informado de mais um resultado POS no TCC do animal nº 314. No mesmo dia realizou o acompanhamento da eustanásia desse animal.";;não
+55;2016;418993;Maria Elizabete Pereira Rezende;Faz. Boa Esperança;31374030526;Lagoa Dourada;Lagoa Dourada;Oliveira;BOV;24;181;TUB;TCC;POS;;;Eutanásia (1 animal em 28/11/2016);"O animal nº 016 encontra-se interditado e aguarda destino final.
+O animal foi eutanasiado na propriedade com a presença do IMA.";;não
+56;2016;171648;JC Agrícola Eireli Ltda;Faz. Catitó;31432030394;Monte Santo de Minas;São Sebastião do Paraíso;Passos;BOV;279;563;TUB;TCC;INC;;;Sacrifício;Os animais 177, 181 e 519, INC no TCC, foram encaminhados para abate sanitário sem a realização de reteste, conforme GTA 146720 série E.;;
+57;2016;171648;JC Agrícola Eireli Ltda;Faz. Catitó;31432030394;Monte Santo de Minas;São Sebastião do Paraíso;Passos;BOV;279;560;TUB;TCC;INC;;;Sacrifício;Os animais 629, 03, 11, 472 e 46, INC no TCC, foram encaminhados para abate sanitário sem a realização de reteste, conforme GTA 187484 série E.;;
+58;2016;451645;Murilo Marques;Faz. Lambari;31622030255;São João Batista do Glória;Passos;Passos;BOV;0;215;TUB;TCC;POS;;;Sacrifício;O animal 115, POS no TCC, aguarda destino final. O animal 115 foi encaminhada ao abate sanitário, conforme GTA 504146 série E.;;
+59;2016;322418;Jorge Amâncio Maciel;Sítio São Jorge;31390030937;Machado;Machado;Pouso Alegre;BOV;;19;TUB;TCC;POS;;;Destruição ;O animal 001 foi destruído na propriedade na presença do serviço oficial;;
+60;2016;348480;João Carlos de Oliveira;Sítio Coroado;31103011829;Caldas;Poços de Caldas;Pouso Alegre;BOV;11;59;TUB;TCC;INC;;;Desinterdição (24/05/16)/Sacrifício(25/05/16);Os animais 156 (amarelo) e 007 (vermelho) foram interditados aguardando reteste. O animal 007 (vermelho) foi desinterditado diante do resultado NEG no reteste. O animal 156 foi encaminhado para abate sanitário, conforme GTA 427540 série E.;;
+61;2016;249296;Vicente Gonçalves da Fonseca;Sítio Barro Preto;31674000494;Silvianópolis;Pouso Alegre;Pouso Alegre;BOV;2;13;TUB;TCC;INC;;;Sacrifício;O animal 295, INC no TCC, foi encaminhado para abate sanitário, conforme GTA 145324 série E.;;
+62;2016;480656;Lourdes Maria de Souza;Sítio Rio Pardo;31103011811;Caldas;Poços de Caldas;Pouso Alegre;BOV;3;14;TUB;TCC;INC;;;Desinterdição;O animal 027 (vermelho), INC no TCC, foi interditado aguardando reteste. O animal 027 (vermelho) foi desinterditado diante do resultado negativo no reteste.;;
+63;2016;168175;José Honório de Souza;Sítio Angola;31103010654;Caldas;Poços de Caldas;Pouso Alegre;BOV;3;12;TUB;TCC;INC;;;Desinterdição;O animal 014 (vermelho), INC no TCC, foi interditado aguardando reteste. O animal 014 (vermelho) foi deisnterditado diante do resultado negativo no reteste.;;
+64;2016;244439;Antenor Dias Machado;Sítio Santa Cruz;31274040196;Gonçalves;Paraisópolis;Pouso Alegre;BOV;71;155;TUB;TCC;POS;;;Destruição;O animal brinco 624, POS no TCC, foi eutanasiado na propriedade na presença do serviço oficial.;;
+65;2016;162160;José Marcos Paes;Faz. Chamonix;31390031074;Machado;Machado;Pouso Alegre;BOV;12;64;BRU;AAT;REAG;1;;Destruição;O animal 202 (Chumbada), REAG no AAT e POS no 2ME foi destruída na propriedade na presença do serviço oficial.;1,00;
+66;2016;168436;Terezinha Fonseca de Oliveira;Sítio Córrego da Cachoeira;31103010296;Caldas;Poços de Caldas;Pouso Alegre;BOV;19;46;TUB;TCC;POS;;;Sacrifício;O animal 72, POS no TCC, foi encaminhado para abate sanitário, conforme GTA 366781 série E.;;
+67;2016;168171;Ailton Batista da Fonseca;Sítio Bela Vista;31103011103;Caldas;Poços de Caldas;Pouso Alegre;BOV;2;68;TUB;TCC;INC;;;Desinterdição;O animal 010 Amarelo, INC no TCC, foi interditado aguardando reteste. O fêmea está prenha no último mês de gestação (TV 350649, de 26/07/16). O animal 010 Amarelo foi desinterditado diante do resultado NEG no TCC.;;
+68;2016;3116848;Luis Henrique Martins;Sítio Barreiro;31103012046;Caldas;Poços de Caldas;Pouso Alegre;BOV;6;16;BRU;AAT;REAG;2;;Sacrifício;Os animais 096 Amarelo e 061 Amarelo, ambos reagentes no AAT, foram interditados aguardando resultado do teste confirmatório. Diante do resultado POS no 2ME os animais foram encaminhados ao abate sanitário, conforme GTA 494722 série E.;2,00;
+69;2016;168363;João Batista Fernandes (arrendatário);Sítio Pedreira;31103010924;Caldas;Poços de Caldas;Pouso Alegre;BOV;51;106;BRU;AAT;REAG;1;;Sacrifício;O animal 753 , REAG no AAT, foi interditado aguardando encaminhamento para abate. O animal foi encaminhado para abate sanitário, conforme GTA 733353 série E;1,00;
+70;2016;163442;José Delfino de Araújo;Sítio Poço Fundo;31517010398;Poço Fundo;Machado;Pouso Alegre;BOV;6;13;TUB;TCC ;POS;;;Destruição;O animal 63 foi interditado diante do resultado POS no TCC, aguardando destino final. O animal foi destruído na propriedade na presença do serviço oficial.;;
+71;2016;121015;Kesser Aparecida Faria Siqueira;Faz. Campinas;31704045552;Unaí;Unaí;Unaí;BOV;16;116;TUB;TCC;INC;;;Desinterdição;Os animais INC nº 287 e 366 que vieram da Faz. Jardim sem GTA foram submetidos ao reteste e, diante do resultado negativo foram desinterditados.;;
+72;2016;;Elison José da Rocha;Faz. Aldeia de Cima;31470062939;Paracatu;Paracatu;Unaí;BOV;89;189;TUB;TCC;POS e INC;;;Morte/Desinterdição;Os animais INCs 012, 013 e 021 foram interditados aguardando reteste. O animal POS 015 foi interditado aguardando destino final. O animal 015 veio à óbito. Os animais INCs 012, 013 e 021 foram desinterditados diante do resultado neg no reteste.;;
+73;2016;3110836;Neldi Auler;Faz. Macaúbas;31704045151;Unaí;Unaí;Unaí;BOV;67;253;BRU e TUB;AAT e TCC;REAG e INC;1;;Interdição/Destruição (10/03/16)/Sacrifício (31/05/16);Os animais INCs 012, 016, 030, 043, 055, 061, 106, 113, 118 e 121 foram interditados aguardando reteste. O animal 119, reagente no AAT, foi positivo no 2ME (laudo 003/16) e, portanto, destruído na propriedade na presença do serviço oficial. Os animais 106, 113, 121, 118, 061 e 043 foram desinterditados diante do resultado NEG no reteste (atestado emitido em 27/05/16). Os animais 055, 012 e 030, POS no reteste, foram encaminhados ao abate sanitário, conforme GTA 447048 série E. O animal 016 morreu na propriedade antes da realização do reteste, fato confirmado por registros fotográficos e observação da carcaça. ;1;
+74;2016;387832;Magno Ribeiro Caetano;Faz. Jardim;31704043440;Unaí;Unaí;Unaí;BOV;1710;200;TUB;TCC;INC;;;Desinterdição;Os animais INCs 083, 424424, 424435, 425309 e 425361 foram interditados aguardando reteste. Os cinco animais ( 083, 424424, 424435, 425309 e 425361) foram desinterditados diante do resultado NEG no reteste.;;
+75;2016;303489;Edson Dias Valadares;Faz. Palmeiras;31704042624;Unaí;Unaí;Unaí;BOV;82;402;TUB;TCC;INC;;;Desinterdição;O animal INC 920 foi interditado aguardando reteste. O animal 920 foi desinterditado diante do resultado neg no reteste.;;
+76;2016;121345;Sergio O'Campos;Faz. Jardim e Gado Bravo;31704041085;Unaí;Unaí;Unaí;BOV;04;164;TUB;TCC;INC;;;Interdição/Desinterdição (27/04/16)/Sacrifício (04/05/16);Os animais INCs 355, 303 e 1205 foram interditados aguardando reteste. Os animais 303 e 355 foram desinterditados diante do resultado NEG no reteste. O animal 1205 permanece interditado diante do resultado POS, aguardando destino final. O animal 1205 foi encaminhado para abate sanitário, conforme GTA 363218 série E.;;
+77;2016;484341;Ivan José Ferreira;Faz. Palmital;31094510217;Cabeceira Grande;Unaí;Unaí;BOV;132;304;BRU  ;AAT  ;REAG  ;2;;Destruição ;Os animais 793 e 944 foram interditados aguardando teste confirmatório. Os animais foram destruídos na propriedade na presença do serviço oficial diante do resultado POS no 2ME.;2,00;
+78;2016;120062;Ana Izabel Borges Mundim;Faz. Capão do Arroz;31704041384;Unaí;Unaí;Unaí;BOV;03;164;TUB;TCC;INC;;;Desinterdição;Os animais 124, 150 e 183, INC no TCC, foram interditados aguardando reteste. Os animais 124, 150 e 183 foram desinterditados diante do resultado NEG no reteste.;;
+79;2016;120054;Cláudio Barcelos de Abreu;Faz. Capão do Arroz;31704041521;Unaí;Unaí;Unaí;BOV;14;366;TUB;TCC;INC;;;Desinterdição/Destruição (16/05/16);Os animais 034, 003, 037 e 036 foram interditados aguardando reteste. Os animais 034, 003 e 037 foram desinterditados diante do resultado NEG no reteste. O animal 036 foi destruído na propriedade na presença do serviço oficial diante do resultado POS no TCC.;;
+80;2016;364151;Donizetti Pereira de Souza;Faz. Pindaíba;31704043100;Unaí;Unaí;Unaí;BOV;02;21;TUB;TCC;INC;;;Destruição (31/05/16);O animal 35 foi interditado aguardando reteste. O animal 35, POS no reteste, foi destruído na presença do serviço oficial.;;
+81;2016;121361;Fernando Antônio de Oliveira;Faz. Palmeiras;31704040525;Unaí;Unaí;Unaí;BOV;57;303;TUB;TCC;INC;;;Desinterdição;Os animais 268, 046 e 22 foram interditados aguardando reteste. Os animais 22, 046 e 268 foram desinterditados diante do resultado neg no reteste em 26/05/16.;;
+82;2016;367639;Silvicelso Silva Evangelista;Faz. PA Canabrava;31704043169;Unaí;Unaí;Unaí;BOV;2;99;TUB;TCC;POS;;;Sacrifício;O animal 412, POS no TCC, foi encaminhado para abate sanitário, conforme GTA 190711 série E.;;
+83;2016;3066520;Orismar Moreira Leão;Faz. Funil;31363063046;João Pinheiro;João Pinheiro;Unaí;BOV;177;425;BRU;AAT;REAG;2;;Destruição;Os animais 26 e 27, REAG no AAT, foram interditados aguardando teste confirmatório. O animal 26 foi INC no 2ME e o animal 27 foi POS no 2ME (laudo B0005/16 LSA). O animal 26 foi POS no 2ME no reteste (laudo B0014/16 LSA). Os animais 26 e 27 foram destruídos na propriedade na presença do serviço oficial.;2,00;
+84;2016;484341;Ivan José Ferreira;Faz. Palmital;31094510217;Cabeceira Grande;Unaí;Unaí;BOV;132;304;BRU;AAT;REAG;2;;Destruição;Os animais 738 e IV01015 (REAG no AAT) foram destruídos na propriedade diante do resultado POS no 2ME (laudo B0008).;2,00;
+85;2016;363356;André Souza Lima Ribeiro de Oliveira;Faz. Lageado;31704043069;Unaí;Unaí;Unaí;BOV;23;170;TUB;TCC;INC;;;Desinterdição ;O animal 643, INC no TCC, foi interditado aguardando reteste. O animal 643 foi desinterditado diante do resultado negativo no reteste.;;
+86;2016;427246;Bruno Brunner Santos (arrendatário);Faz. Trombas;31094510426;Cabeceira Grande;Unaí;Unaí;BOV;25;88;TUB;TCC;POS e INC;;;Destruição (09/05/16)/Óbito (10/09/16);"Os animais 264 e 270, INC no TCC, foram interditados aguardando reteste. O animal 139, POS no TCC, foi destruído na propriedade na presença do serviço oficial. O animal 270 foi negativo no reteste; porém, veio à óbito antes da desinterdição. O animal 264 veio à óbito antes do reteste (pendente o atestado de óbito e a inclusão da informação no Form com 3, de 14/09/16, data da última vistoria para a desinterdição).";;
+87;2016;120333;Creonice Pereira Leitão Santos;Faz. Trombas;31704042883;Cabeceira Grande;Unaí;Unaí;BOV;17;42;TUB;TCC;POS e INC;;;Destruição (09/05/16)/Desinterdição (14/09/16);Os animais 29, 113, 125 e 260, INC no TCC, foram interditados aguardando reteste. O animal 132, POS no TCC, foi destruído na propriedade na presença do serviço oficial. Os animais 29, 113, 125 e 260 foram desinterditados diante do resultado NEG no reteste em 08/09/16.;;
+88;2016;270181;Aline Zanotti Del Col;Faz. Barreiro;31704042388;Unaí;Unaí;Unaí;BOV;27;306;TUB;TCC;INC;;;Sacrifício;O animal 022, INC no TCC, foi interditado aguardando reteste. O animal 022, POS no TCC (atestado em 20/08/16) foi encaminhado para abate sanitário, conforme GTA 783570 série E.;;
+89;2016;453446;Albert Berend Schuiling;Faz. Catingueiro;31704044215;Unaí;Unaí;Unaí;BOV;6;190;TUB;TCC;INC;;;Desinterdição;Os animais 241, 301, 290, 274, 342, 336, 305, 323 e 312, INC no TCC, foram interditados aguardando reteste. O animal 319, INC no TCC, foi interditado aguardando reteste. Foi realizada a desinterdição dos animais 241, 301, 290, 274, 342, 336, 305, 323, 312 e 319 foram desinterditados diante do resultado NEG no reteste (TCC).;;
+90;2016;315051;Valcir Alves da Mata;Faz. Carimelo;31094510215;Cabeceira Grande;Unaí;Unaí;BOV;112;268;BRU;AAT;REAG;1;;Desinterdição;O animal 1375, REAG no AAT, foi interditado aguardando resultado confirmatório. O animal 1375 foi desinterditado diante do resultado NEG no 2ME (laudo LSA B0017/16).;0;
+91;2016;3172549;Marcela Reis de Morais Ferreira;Faz. PA Palmeirinha lote 40;31704045601;Unaí;Unaí;Unaí;BOV;7;17;TUB;TCS;INC;;;Desinterdição;O animal 002, INC no TCS, foi interditado aguardando reteste. O animal 002 foi desinterditado diante do resultado NEG no reteste (TCC).;;
+92;2016;387832;Magno Ribeiro Caetano;Faz. Jardim;31704043440;Unaí;Unaí;Unaí;BOV;2195;24;TUB;TCC;INC;;;Desinterdição;Os animais 007 e 009, INC no TCC, foram interditados aguardando reteste. Os animais 007 e 009 foram desinterditados diante do resultado NEG no reteste (TCC). ;;
+93;2016;118672;Donizete Augusto da Silva;Faz. Canto;31704040378;Unaí;Unaí;Unaí;BOV;10;57;TUB;TCS;INC;;;Desinterdição;Os animais 180, 181 e 189, INC no TCS, foram interditados aguardando reteste. Os animais 180, 181 e 189 foram desinterditados diante do resultado NEG no reteste (TCC em 14/10/16).;;
+94;2016;120324;Gaspar Augusto da Silva;Faz. Papamel;31704042294;Unaí;Unaí;Unaí;BOV;11;69;TUB;TCS;INC;;;Desinterdição;Os animais 505, 507 e 510, INC no TCS, foram interditados aguardando reteste. Os animais 510, 505 e 507 foram desinterditados diante do resultado NEG no reteste (TCC em 06/10/16). ;;
+95;2016;112167;Ademir Geraldo de Souza;Faz. Serra Dourada;31704790140;Uruana de Minas;Arinos;Unaí;BOV;56;451;BRU;AAT;REAG;1;;Destruição ;O animal 12, REAG no AAT, foi destruído na propriedade na presença do serviço oficial (o proprietário não quis fazer o teste confirmatório).;1,00;
+96;2016;120480;Ivânio Ladeira Dias;PA Paraíso Lote 52;31704041912;Unaí;Unaí;Unaí;BOV;10;63;BRU;AAT;REAG;2;;Desinterdição (30/09/16)/Abate sanitário (06/01/17);Os animais 11 e 13, REAG no AAT, foram interditados aguardando teste confirmatório. O animal 11, NEG no 2ME, foi desinterditado diante do resultado NEG no 2ME. O animal 13, INC no 2ME, permanece interditado aguardando prazo de 30 a 60 dias para realização de reteste 2ME. O animal 13 novamente teve o resultado INC no 2ME e assim foi considerado como POS. O animal 13 foi encaminhado para abate sanitário, conforme GTA 176930 série F.;1,00;
+97;2016;464986;Luciano Martins de Souza;Faz. Ilha ou Alegre;31704045624;Unaí;Unaí;Unaí;BOV;0;36;TUB;TCS;INC;;;Desinterdição;Quatorze animais foram interditados diante do resultado INC no TCS, aguardando reteste. São eles: LM 1048, LM 1028, LM 1010, LM 1026, LM 1029, LM 1004, LM 1025, LM 1039, LM 1014, LM 1031, LM 1012, 012, LM 1002, LM 1032. Todos eles foram foram desinterditados diante do resultado NEG no reteste (TCC em 11/11/16).;;
+98;2016;119498;Joaquim Muniz dos Santos;Faz. Ilha ou Alegre;31704041994;Unaí;Unaí;Unaí;BOV;9;46;TUB;TCS;INC;;;Desinterdição;Onze animais foram interditados diante do resultado INC no TCS, aguardando reteste. São eles: VP 2004, VP 2012, BELGICA 008, DOLLY 009, VP 2003, VP 2011, VP 2085, VP 2081, VP 2010, VP 2082, VP 2007. Todos eles foram foram desinterditados diante do resultado NEG no reteste (TCC em 11/11/16).;;
+99;2016;306024;Antônio José Souza;Faz. Sucuri;31704042692;Unaí;Unaí;Unaí;BOV;29;58;TUB;TCC;INC;;;Desinterdição;Os animais 116, 132 e 129 foram interditados diante do resultado INC no TCC, aguardando reteste. Os animais 116, 132 e 129 foram desinterditados diante do resultado NEG no reteste (TCC em 14/11/16). ;;
+100;2016;395194;Juscelino de Oliveiras Campos;Faz. Pico;31704043527;Unaí;Unaí;Unaí;BOV;3;108;TUB;TCC;INC;;;Desinterdição;O animal 025 foi interditado diante do resultado INC no TCC, aguardando reteste. O animal 025 foi desinterditado diante do resultado NEG no reteste (TCC em 09/01/17).;;
+101;2016;408617;Luzia Miranda de Castro;Faz. Sitio;31704043875;Unaí;Unaí;Unaí;BOV;134;503;TUB;TCC;POS e INC;;;Sacrifício (25/11/16)/Desinterdição (25/01/17);Os animais 041, 025, 601 e 893, POS no TCC, foram interditados aguardando destino final. Os animais 883, 604 e 615, INC no TCC, foram interditados e aguardam reteste. Os animais 041, 025, 601 e 893 foram encaminhados ao abate sanitário, conforme GTA 45176 série F. Os animais 883, 604 e 615 foram desinterditados diante do resultado NEG no reteste (TCC em 23/01/17).;;
+102;2016;363140;Magna Oliveira Campos;Faz. Pico;31704045500;Unaí;Unaí;Unaí;BOV;84;72;TUB;TCC;INC;;;Desinterdição;O animal 055 foi interditado diante do resultado INC no TCC, aguardando reteste. O animal 055 foi desinterditado diante do resultado NEG no reteste (TCC em 04/02/17).;;
+103;2016;270181;Aline Zanotti Del Col;Faz. Boqueirão;31704044070;Unaí;Unaí;Unaí;BOV;30;235;BRU;AAT;REAG;1;;Destruição;O animal 27 foi interditado diante do resultado REAG no AAT e aguarda resultado do teste confirmatório 2ME. O animal 27, POS no 2ME, foi destruído na propriedade na presença do serviço oficial. ;1,00;
+104;2016;120327;Cooperativa Agropecuária de Unaí Ltda.;Faz. Pico;31704042984;Unaí;Unaí;Unaí;BOV ;5;134;BRU;AAT;REAG;1;;Desinterdição;O animal 06 foi interditado diante do resultado REAG no AAT e aguarda resultado do teste confirmatório 2ME. O animal 06 foi desinterditado diante do resultado NEG no 2ME (laudo B0030/16).;0,00;
+105;2016;393918;Dari Onar Pisetta;Faz. Princesa da Serra;31093031532;Buritis;Buritis;Unaí;BOV;1;215;TUB;TCC;INC;;;Desinterdição;Os animais 603, 664, 870, 9071, 9560 e 9568 foram interditados diante do resultado INC no TCC, aguardando reteste. Os animais citados foram desinterditados diante do resultado NEG no reteste (TCC em 09/01/17).;;
+106;2016;378464;Silas Ribeiro de Campos;Sítio Cantinho Meu;31330060960;Itamonte;Itamonte;Varginha;BOV;7;11;TUB;TCC;POS;;;Sacrifício;O animal nº 600, POS no TCC, foi interditado aguardando destino final. Aguardando esclarecimento se o animal foi testado no Sítio Manguará ou no Sítio Cantinho Meu. O animal nº 600 foi eliminado na propriedade na presença do serviço oficial.;;
+107;2016;13568;João Célio Ribeiro;Sítio Fazenda;31330060411;Itamonte;Itamonte;Varginha;BOV;1;91;TUB;TCC/AAT;POS/REAG;4;;Interdição/Sacrifício (08/06/16);O animal 153, REAG no AAT, foi interditado aguardando teste confirmatório. Os animais 67, 19, 47, 30 (também REAG no AAT), 211, 01, 32, 62, 3801, 16, 08, 29, 14, 15, 60, 11, 04, 05, 21, 31, 41, 447, 613 (na verdade 63), 445, 442, 183, 101, 556, 116 POS no TCC (29 animais no total), e os animais 56, 37, 49 (também REAG no AAT), 0078, 320, 10, 31, 70, 17, 20 (também REAG no AAT), 22, 50, 09, 61, 107, 02, 5551, 603, 0097, 557 INC no TCC (20 animais no total) foram interditados, aguardando avaliação para indenização (total de 49 animais). os animais 320, 14, 183, 445 e 63 vieram à obito antes da avaliação. Após avaliação, os animais foram encaminhados para abate sanitário, conforme GTAs 483250, 483324, 483353 e 483296, série E. Ainda não há informação quanto ao animal 153, REAG no AAT. Obs. no Informe mensal encerrei o foco em junho.;;
+108;2016;412887;Vanderson Goulart Junho;Faz. do Pilar;31444090862;Natércia;São Gonçalo do Sapucaí;Varginha;BOV;9;274;BRU;AAT;REAG;3;;Desinterdição/Destruição;Os animais 025, 002 e 033, REAG no AAT, foram interditados aguardando teste confirmatório. Já enviado o laudo B0018/16 ao ESEC SGSapucaí (animais 002 e 033 POS no 2ME). Os animais 002 e 033, POS no 2ME, foram destruídos na propriedade na presença do serviço oficial. O animal 025 foi desinterditado diante do resultado NEG no 2ME.;2,00;
+109;2016;331833;Carlos Raimundo dos Santos;Faz. Santo Antônio dos Dois Córregos;31359020066;Jesuânia;Lambari;Varginha;BOV;1;730;TUB;TCC;POS;;;Destruição;O animal 1069 foi destruído na propriedade na presença do serviço oficial diante do resultado POS no TCC. Propriedade antes certificada como livre de brucelose e tuberculose teve a certificação suspensa, e o produtor manifestou não ter a intenção de renovar a certificação.;;
